@@ -5,77 +5,77 @@ var jsonData = {
       "x": 14.33863,
       "y": 120.957,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_1",
       "x": 14.3388,
       "y": 120.95686,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_2",
       "x": 14.33884,
       "y": 120.95683,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_3",
       "x": 14.33908,
       "y": 120.95665,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_4",
       "x": 14.3393,
       "y": 120.95647,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_5",
       "x": 14.33939,
       "y": 120.95639,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_6",
       "x": 14.33972,
       "y": 120.95615,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_7",
       "x": 14.33979,
       "y": 120.95608,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_8",
       "x": 14.34001,
       "y": 120.95588,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_9",
       "x": 14.34031,
       "y": 120.95562,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_10",
       "x": 14.3404,
       "y": 120.95555,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_11",
@@ -495,21 +495,21 @@ var jsonData = {
       "x": 14.3353,
       "y": 120.95444,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_71",
       "x": 14.33513,
       "y": 120.95439,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_72",
       "x": 14.33498,
       "y": 120.95435,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "dbb1_to_dbbf_73",
@@ -572,21 +572,21 @@ var jsonData = {
       "x": 14.33385,
       "y": 120.95424,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1 Wet and Dry Market"
     },
     {
       "id": "dbb1_to_dbbf_82",
       "x": 14.33368,
       "y": 120.95438,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1 Wet and Dry Market"
     },
     {
       "id": "dbb1_to_dbbf_83",
       "x": 14.33273,
       "y": 120.95523,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1 Wet and Dry Market"
     },
     {
       "id": "dbb1_to_dbbf_84",
@@ -656,7 +656,7 @@ var jsonData = {
       "x": 14.33004,
       "y": 120.95761,
       "type": "jeep",
-      "stop": ""
+      "stop": "Kadiwa"
     },
     {
       "id": "dbb1_to_dbbf_94",
@@ -782,21 +782,21 @@ var jsonData = {
       "x": 14.32542,
       "y": 120.96168,
       "type": "jeep",
-      "stop": ""
+      "stop": "Dasma Integrated High School Main"
     },
     {
       "id": "dbb1_to_dbbf_112",
       "x": 14.32459,
       "y": 120.96242,
       "type": "jeep",
-      "stop": ""
+      "stop": "Dasma Integrated High School Main"
     },
     {
       "id": "dbb1_to_dbbf_113",
       "x": 14.32449,
       "y": 120.9625,
       "type": "jeep",
-      "stop": ""
+      "stop": "Dasma Integrated High School Main"
     },
     {
       "id": "dbb1_to_dbbf_114",
@@ -908,21 +908,21 @@ var jsonData = {
       "x": 14.32189,
       "y": 120.96364,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 1"
     },
     {
       "id": "dbb1_to_dbbf_130",
       "x": 14.32164,
       "y": 120.96367,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 1"
     },
     {
       "id": "dbb1_to_dbbf_131",
       "x": 14.32093,
       "y": 120.96375,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 1"
     },
     {
       "id": "dbb1_to_dbbf_132",
@@ -1265,21 +1265,21 @@ var jsonData = {
       "x": 14.30976,
       "y": 120.96811,
       "type": "jeep",
-      "stop": ""
+      "stop": "Luzviminda II"
     },
     {
       "id": "dbb1_to_dbbf_181",
       "x": 14.30936,
       "y": 120.96842,
       "type": "jeep",
-      "stop": ""
+      "stop": "Luzviminda II"
     },
     {
       "id": "dbb1_to_dbbf_182",
       "x": 14.30941,
       "y": 120.96848,
       "type": "jeep",
-      "stop": ""
+      "stop": "Luzviminda II"
     },
     {
       "id": "dbb1_to_dbbf_183",
@@ -2399,21 +2399,21 @@ var jsonData = {
       "x": 14.32864,
       "y": 120.95758,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 3"
     },
     {
       "id": "dbbc_to_baclaran_139",
       "x": 14.3286,
       "y": 120.95744,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 3"
     },
     {
       "id": "dbbc_to_baclaran_140",
       "x": 14.32853,
       "y": 120.95722,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 3"
     },
     {
       "id": "dbbc_to_baclaran_141",
@@ -3092,14 +3092,14 @@ var jsonData = {
       "x": 14.34336,
       "y": 120.93737,
       "type": "jeep",
-      "stop": ""
+      "stop": "Toyota Dasma"
     },
     {
       "id": "dbbc_to_baclaran_238",
       "x": 14.34353,
       "y": 120.93738,
       "type": "jeep",
-      "stop": ""
+      "stop": "Toyota Dasma"
     },
     {
       "id": "dbbc_to_baclaran_239",
@@ -3204,28 +3204,28 @@ var jsonData = {
       "x": 14.34903,
       "y": 120.93766,
       "type": "jeep",
-      "stop": ""
+      "stop": "Savemore Salitan"
     },
     {
       "id": "dbbc_to_baclaran_254",
       "x": 14.34949,
       "y": 120.93767,
       "type": "jeep",
-      "stop": ""
+      "stop": "Savemore Salitan"
     },
     {
       "id": "dbbc_to_baclaran_255",
       "x": 14.34967,
       "y": 120.93769,
       "type": "jeep",
-      "stop": ""
+      "stop": "Savemore Salitan"
     },
     {
       "id": "dbbc_to_baclaran_256",
       "x": 14.34985,
       "y": 120.9377,
       "type": "jeep",
-      "stop": ""
+      "stop": "Savemore Salitan"
     },
     {
       "id": "dbbc_to_baclaran_257",
@@ -5143,21 +5143,21 @@ var jsonData = {
       "x": 14.44471,
       "y": 120.95258,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Bacoor"
     },
     {
       "id": "dbbc_to_baclaran_531",
       "x": 14.44482,
       "y": 120.95263,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Bacoor"
     },
     {
       "id": "dbbc_to_baclaran_532",
       "x": 14.44499,
       "y": 120.95272,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Bacoor"
     },
     {
       "id": "dbbc_to_baclaran_533",
@@ -6963,35 +6963,35 @@ var jsonData = {
       "x": 14.53666,
       "y": 120.99267,
       "type": "jeep",
-      "stop": ""
+      "stop": "Heritage"
     },
     {
       "id": "dbbc_to_baclaran_791",
       "x": 14.53684,
       "y": 120.99265,
       "type": "jeep",
-      "stop": ""
+      "stop": "Heritage"
     },
     {
       "id": "dbbc_to_bayan_0",
       "x": 14.32438,
       "y": 120.96797,
       "type": "jeep",
-      "stop": ""
+      "stop": "San Roque"
     },
     {
       "id": "dbbc_to_bayan_1",
       "x": 14.32443,
       "y": 120.96795,
       "type": "jeep",
-      "stop": ""
+      "stop": "San Roque"
     },
     {
       "id": "dbbc_to_bayan_2",
       "x": 14.32446,
       "y": 120.96805,
       "type": "jeep",
-      "stop": ""
+      "stop": "San Roque"
     },
     {
       "id": "dbbc_to_bayan_3",
@@ -7418,21 +7418,21 @@ var jsonData = {
       "x": 14.31852,
       "y": 120.97107,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area C"
     },
     {
       "id": "dbbc_to_bayan_64",
       "x": 14.31845,
       "y": 120.97106,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area C"
     },
     {
       "id": "dbbc_to_bayan_65",
       "x": 14.31814,
       "y": 120.97103,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area C"
     },
     {
       "id": "dbbc_to_bayan_66",
@@ -7880,21 +7880,21 @@ var jsonData = {
       "x": 14.32882,
       "y": 120.9588,
       "type": "jeep",
-      "stop": ""
+      "stop": "Kadiwa"
     },
     {
       "id": "dbbc_to_bayan_130",
       "x": 14.32913,
       "y": 120.95854,
       "type": "jeep",
-      "stop": ""
+      "stop": "Kadiwa"
     },
     {
       "id": "dbbc_to_bayan_131",
       "x": 14.32918,
       "y": 120.9585,
       "type": "jeep",
-      "stop": ""
+      "stop": "Kadiwa"
     },
     {
       "id": "dbbc_to_bayan_132",
@@ -7943,7 +7943,7 @@ var jsonData = {
       "x": 14.32864,
       "y": 120.95758,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 3"
     },
     {
       "id": "dbbc_to_bayan_139",
@@ -12129,21 +12129,21 @@ var jsonData = {
       "x": 14.32864,
       "y": 120.95758,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 3"
     },
     {
       "id": "dbbc_to_palapala_139",
       "x": 14.3286,
       "y": 120.95744,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 3"
     },
     {
       "id": "dbbc_to_palapala_140",
       "x": 14.32853,
       "y": 120.95722,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 3"
     },
     {
       "id": "dbbc_to_palapala_141",
@@ -13207,70 +13207,70 @@ var jsonData = {
       "x": 14.30006,
       "y": 120.95677,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "dbbc_to_palapala_293",
       "x": 14.29976,
       "y": 120.95729,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "dbbc_to_palapala_294",
       "x": 14.29977,
       "y": 120.95729,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "dbbc_to_palapala_295",
       "x": 14.29985,
       "y": 120.95734,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "dbbc_to_palapala_296",
       "x": 14.29991,
       "y": 120.95738,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "dbbc_to_palapala_297",
       "x": 14.30016,
       "y": 120.95756,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "dbbc_to_palapala_298",
       "x": 14.30025,
       "y": 120.95763,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "dbbg_to_dbbf_0",
       "x": 14.34056,
       "y": 120.9489,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area G"
     },
     {
       "id": "dbbg_to_dbbf_1",
       "x": 14.34058,
       "y": 120.94893,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area G"
     },
     {
       "id": "dbbg_to_dbbf_2",
       "x": 14.34059,
       "y": 120.94896,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area G"
     },
     {
       "id": "dbbg_to_dbbf_3",
@@ -13571,21 +13571,21 @@ var jsonData = {
       "x": 14.33485,
       "y": 120.95339,
       "type": "jeep",
-      "stop": ""
+      "stop": "San Manuel"
     },
     {
       "id": "dbbg_to_dbbf_46",
       "x": 14.33469,
       "y": 120.95351,
       "type": "jeep",
-      "stop": ""
+      "stop": "San Manuel"
     },
     {
       "id": "dbbg_to_dbbf_47",
       "x": 14.33463,
       "y": 120.95356,
       "type": "jeep",
-      "stop": ""
+      "stop": "San Manuel"
     },
     {
       "id": "dbbg_to_dbbf_48",
@@ -13956,21 +13956,21 @@ var jsonData = {
       "x": 14.32189,
       "y": 120.96364,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 1"
     },
     {
       "id": "dbbg_to_dbbf_101",
       "x": 14.32164,
       "y": 120.96367,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 1"
     },
     {
       "id": "dbbg_to_dbbf_102",
       "x": 14.32093,
       "y": 120.96375,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 1"
     },
     {
       "id": "dbbg_to_dbbf_103",
@@ -14222,21 +14222,21 @@ var jsonData = {
       "x": 14.31327,
       "y": 120.96622,
       "type": "jeep",
-      "stop": ""
+      "stop": "7Eleven"
     },
     {
       "id": "dbbg_to_dbbf_139",
       "x": 14.31304,
       "y": 120.96632,
       "type": "jeep",
-      "stop": ""
+      "stop": "7Eleven"
     },
     {
       "id": "dbbg_to_dbbf_140",
       "x": 14.31283,
       "y": 120.9664,
       "type": "jeep",
-      "stop": ""
+      "stop": "7Eleven"
     },
     {
       "id": "dbbg_to_dbbf_141",
@@ -15727,49 +15727,49 @@ var jsonData = {
       "x": 14.33266,
       "y": 120.9872,
       "type": "jeep",
-      "stop": ""
+      "stop": "Avida Residences Dasma"
     },
     {
       "id": "molino_to_paliparan_179",
       "x": 14.33262,
       "y": 120.98724,
       "type": "jeep",
-      "stop": ""
+      "stop": "Avida Residences Dasma"
     },
     {
       "id": "molino_to_paliparan_180",
       "x": 14.33237,
       "y": 120.98737,
       "type": "jeep",
-      "stop": ""
+      "stop": "Avida Residences Dasma"
     },
     {
       "id": "molino_to_paliparan_181",
       "x": 14.33192,
       "y": 120.98757,
       "type": "jeep",
-      "stop": ""
+      "stop": "Avida Sta. Cecilia"
     },
     {
       "id": "molino_to_paliparan_182",
       "x": 14.33166,
       "y": 120.98768,
       "type": "jeep",
-      "stop": ""
+      "stop": "Avida Sta. Cecilia"
     },
     {
       "id": "molino_to_paliparan_183",
       "x": 14.33136,
       "y": 120.98779,
       "type": "jeep",
-      "stop": ""
+      "stop": "Avida Sta. Cecilia"
     },
     {
       "id": "molino_to_paliparan_184",
       "x": 14.33127,
       "y": 120.98781,
       "type": "jeep",
-      "stop": ""
+      "stop": "Avida Sta. Cecilia"
     },
     {
       "id": "molino_to_paliparan_185",
@@ -16175,63 +16175,63 @@ var jsonData = {
       "x": 14.32151,
       "y": 120.98468,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "molino_to_paliparan_243",
       "x": 14.32138,
       "y": 120.98468,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "palapala_to_dbbc_0",
       "x": 14.29977,
       "y": 120.95749,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "palapala_to_dbbc_1",
       "x": 14.29985,
       "y": 120.95734,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "palapala_to_dbbc_2",
       "x": 14.29995,
       "y": 120.95718,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "palapala_to_dbbc_3",
       "x": 14.3,
       "y": 120.9571,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "palapala_to_dbbc_4",
       "x": 14.30034,
       "y": 120.95656,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "palapala_to_dbbc_5",
       "x": 14.30045,
       "y": 120.95642,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma"
     },
     {
       "id": "palapala_to_dbbc_6",
       "x": 14.30062,
       "y": 120.9562,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma Entrance"
     },
     {
       "id": "palapala_to_dbbc_7",
@@ -16273,7 +16273,7 @@ var jsonData = {
       "x": 14.30202,
       "y": 120.95476,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma - West Entrance"
     },
     {
       "id": "palapala_to_dbbc_13",
@@ -16910,35 +16910,35 @@ var jsonData = {
       "x": 14.32423,
       "y": 120.94111,
       "type": "jeep",
-      "stop": ""
+      "stop": "Walter"
     },
     {
       "id": "palapala_to_dbbc_104",
       "x": 14.32463,
       "y": 120.94102,
       "type": "jeep",
-      "stop": ""
+      "stop": "Walter"
     },
     {
       "id": "palapala_to_dbbc_105",
       "x": 14.32508,
       "y": 120.94088,
       "type": "jeep",
-      "stop": ""
+      "stop": "Walter"
     },
     {
       "id": "palapala_to_dbbc_106",
       "x": 14.32515,
       "y": 120.94085,
       "type": "jeep",
-      "stop": ""
+      "stop": "Walter"
     },
     {
       "id": "palapala_to_dbbc_107",
       "x": 14.32527,
       "y": 120.94081,
       "type": "jeep",
-      "stop": ""
+      "stop": "Walter"
     },
     {
       "id": "palapala_to_dbbc_108",
@@ -17078,42 +17078,42 @@ var jsonData = {
       "x": 14.32678,
       "y": 120.94391,
       "type": "jeep",
-      "stop": ""
+      "stop": "McDo Antlers"
     },
     {
       "id": "palapala_to_dbbc_128",
       "x": 14.3268,
       "y": 120.94527,
       "type": "jeep",
-      "stop": ""
+      "stop": "The ONE Dasma"
     },
     {
       "id": "palapala_to_dbbc_129",
       "x": 14.3268,
       "y": 120.94565,
       "type": "jeep",
-      "stop": ""
+      "stop": "EAC"
     },
     {
       "id": "palapala_to_dbbc_130",
       "x": 14.3268,
       "y": 120.9459,
       "type": "jeep",
-      "stop": ""
+      "stop": "EAC"
     },
     {
       "id": "palapala_to_dbbc_131",
       "x": 14.3268,
       "y": 120.94591,
       "type": "jeep",
-      "stop": ""
+      "stop": "EAC"
     },
     {
       "id": "palapala_to_dbbc_132",
       "x": 14.32681,
       "y": 120.94619,
       "type": "jeep",
-      "stop": ""
+      "stop": "EAC"
     },
     {
       "id": "palapala_to_dbbc_133",
@@ -17176,14 +17176,14 @@ var jsonData = {
       "x": 14.32721,
       "y": 120.94995,
       "type": "jeep",
-      "stop": ""
+      "stop": "Angel's Cat Cafe"
     },
     {
       "id": "palapala_to_dbbc_142",
       "x": 14.32729,
       "y": 120.95072,
       "type": "jeep",
-      "stop": ""
+      "stop": "Angel's Cat Cafe"
     },
     {
       "id": "palapala_to_dbbc_143",
@@ -17281,21 +17281,21 @@ var jsonData = {
       "x": 14.32836,
       "y": 120.95682,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 3"
     },
     {
       "id": "palapala_to_dbbc_157",
       "x": 14.32844,
       "y": 120.95717,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 3"
     },
     {
       "id": "palapala_to_dbbc_158",
       "x": 14.32847,
       "y": 120.95737,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 3"
     },
     {
       "id": "palapala_to_dbbc_159",
@@ -17470,21 +17470,21 @@ var jsonData = {
       "x": 14.32347,
       "y": 120.96336,
       "type": "jeep",
-      "stop": ""
+      "stop": "St. Paul Hospital Cavite"
     },
     {
       "id": "palapala_to_dbbc_184",
       "x": 14.32334,
       "y": 120.96343,
       "type": "jeep",
-      "stop": ""
+      "stop": "St. Paul Hospital Cavite"
     },
     {
       "id": "palapala_to_dbbc_185",
       "x": 14.32331,
       "y": 120.96344,
       "type": "jeep",
-      "stop": ""
+      "stop": "St. Paul Hospital Cavite"
     },
     {
       "id": "palapala_to_dbbc_186",
@@ -17519,7 +17519,7 @@ var jsonData = {
       "x": 14.3226,
       "y": 120.96356,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 4"
     },
     {
       "id": "palapala_to_dbbc_191",
@@ -17547,21 +17547,21 @@ var jsonData = {
       "x": 14.32189,
       "y": 120.96364,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 1"
     },
     {
       "id": "palapala_to_dbbc_195",
       "x": 14.32164,
       "y": 120.96367,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 1"
     },
     {
       "id": "palapala_to_dbbc_196",
       "x": 14.32093,
       "y": 120.96375,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 1"
     },
     {
       "id": "palapala_to_dbbc_197",
@@ -17778,14 +17778,14 @@ var jsonData = {
       "x": 14.3182,
       "y": 120.9689,
       "type": "jeep",
-      "stop": ""
+      "stop": "San Mateo"
     },
     {
       "id": "palapala_to_dbbc_228",
       "x": 14.31819,
       "y": 120.96898,
       "type": "jeep",
-      "stop": ""
+      "stop": "San Mateo"
     },
     {
       "id": "palapala_to_dbbc_229",
@@ -17855,70 +17855,70 @@ var jsonData = {
       "x": 14.31863,
       "y": 120.97113,
       "type": "jeep",
-      "stop": ""
+      "stop": "San Roque"
     },
     {
       "id": "palapala_to_dbbc_239",
       "x": 14.31867,
       "y": 120.97111,
       "type": "jeep",
-      "stop": ""
+      "stop": "San Roque"
     },
     {
       "id": "paliparan_to_molino_0",
       "x": 14.31954,
       "y": 120.98526,
       "type": "jeep",
-      "stop": ""
+      "stop": "Mercury Paliparan"
     },
     {
       "id": "paliparan_to_molino_1",
       "x": 14.31986,
       "y": 120.9851,
       "type": "jeep",
-      "stop": ""
+      "stop": "Mercury Paliparan"
     },
     {
       "id": "paliparan_to_molino_2",
       "x": 14.32003,
       "y": 120.98502,
       "type": "jeep",
-      "stop": ""
+      "stop": "Mercury Paliparan"
     },
     {
       "id": "paliparan_to_molino_3",
       "x": 14.32032,
       "y": 120.98488,
       "type": "jeep",
-      "stop": ""
+      "stop": "Mercury Paliparan"
     },
     {
       "id": "paliparan_to_molino_4",
       "x": 14.32037,
       "y": 120.98486,
       "type": "jeep",
-      "stop": ""
+      "stop": "Mercury Paliparan"
     },
     {
       "id": "paliparan_to_molino_5",
       "x": 14.32041,
       "y": 120.98483,
       "type": "jeep",
-      "stop": ""
+      "stop": "Jollibee Paliparan"
     },
     {
       "id": "paliparan_to_molino_6",
       "x": 14.3205,
       "y": 120.9848,
       "type": "jeep",
-      "stop": ""
+      "stop": "Jollibee Paliparan"
     },
     {
       "id": "paliparan_to_molino_7",
       "x": 14.3206,
       "y": 120.98476,
       "type": "jeep",
-      "stop": ""
+      "stop": "Jollibee Paliparan"
     },
     {
       "id": "paliparan_to_molino_8",
@@ -17974,21 +17974,21 @@ var jsonData = {
       "x": 14.32191,
       "y": 120.98464,
       "type": "jeep",
-      "stop": ""
+      "stop": "Pintong Gubat Elementary School"
     },
     {
       "id": "paliparan_to_molino_16",
       "x": 14.32228,
       "y": 120.98461,
       "type": "jeep",
-      "stop": ""
+      "stop": "Pintong Gubat Elementary School"
     },
     {
       "id": "paliparan_to_molino_17",
       "x": 14.32251,
       "y": 120.9846,
       "type": "jeep",
-      "stop": ""
+      "stop": "Pintong Gubat Elementary School"
     },
     {
       "id": "paliparan_to_molino_18",
@@ -18345,21 +18345,21 @@ var jsonData = {
       "x": 14.33127,
       "y": 120.98781,
       "type": "jeep",
-      "stop": ""
+      "stop": "Avida Sta. Cecilia"
     },
     {
       "id": "paliparan_to_molino_69",
       "x": 14.33136,
       "y": 120.98779,
       "type": "jeep",
-      "stop": ""
+      "stop": "Avida Sta. Cecilia"
     },
     {
       "id": "paliparan_to_molino_70",
       "x": 14.33166,
       "y": 120.98768,
       "type": "jeep",
-      "stop": ""
+      "stop": "Avida Sta. Cecilia"
     },
     {
       "id": "paliparan_to_molino_71",
@@ -18996,28 +18996,28 @@ var jsonData = {
       "x": 14.35243,
       "y": 120.98111,
       "type": "jeep",
-      "stop": ""
+      "stop": "Jollibee Salawag"
     },
     {
       "id": "paliparan_to_molino_162",
       "x": 14.35277,
       "y": 120.98115,
       "type": "jeep",
-      "stop": ""
+      "stop": "Jollibee Salawag"
     },
     {
       "id": "paliparan_to_molino_163",
       "x": 14.35373,
       "y": 120.98124,
       "type": "jeep",
-      "stop": ""
+      "stop": "Elijah Hotel"
     },
     {
       "id": "paliparan_to_molino_164",
       "x": 14.35383,
       "y": 120.98128,
       "type": "jeep",
-      "stop": ""
+      "stop": "Elijah Hotel"
     },
     {
       "id": "paliparan_to_molino_165",
@@ -19633,42 +19633,42 @@ var jsonData = {
       "x": 14.3832,
       "y": 120.97832,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Molino"
     },
     {
       "id": "paliparan_to_molino_253",
       "x": 14.38331,
       "y": 120.9783,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Molino"
     },
     {
       "id": "paliparan_to_molino_254",
       "x": 14.38392,
       "y": 120.9782,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Molino"
     },
     {
       "id": "paliparan_to_robinsons_0",
       "x": 14.320801302242462,
       "y": 120.98328746278055,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan_to_robinsons_1",
       "x": 14.32068,
       "y": 120.98295,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan_to_robinsons_2",
       "x": 14.320482833217968,
       "y": 120.98242168249935,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan_to_robinsons_3",
@@ -19703,21 +19703,21 @@ var jsonData = {
       "x": 14.320080049626394,
       "y": 120.9817487026169,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan_to_robinsons_8",
       "x": 14.32015,
       "y": 120.98184,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan_to_robinsons_9",
       "x": 14.32041,
       "y": 120.98242,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan_to_robinsons_10",
@@ -20039,14 +20039,14 @@ var jsonData = {
       "x": 14.31707,
       "y": 120.98613,
       "type": "jeep",
-      "stop": ""
+      "stop": "Coco Valley Waterpark"
     },
     {
       "id": "paliparan_to_robinsons_56",
       "x": 14.31587,
       "y": 120.98637,
       "type": "jeep",
-      "stop": ""
+      "stop": "Coco Valley Waterpark"
     },
     {
       "id": "paliparan_to_robinsons_57",
@@ -21068,21 +21068,21 @@ var jsonData = {
       "x": 14.29341,
       "y": 120.97176,
       "type": "jeep",
-      "stop": ""
+      "stop": "Providence Memorial Park"
     },
     {
       "id": "paliparan_to_robinsons_203",
       "x": 14.29345,
       "y": 120.97166,
       "type": "jeep",
-      "stop": ""
+      "stop": "Providence Memorial Park"
     },
     {
       "id": "paliparan_to_robinsons_204",
       "x": 14.29346,
       "y": 120.97157,
       "type": "jeep",
-      "stop": ""
+      "stop": "Providence Memorial Park"
     },
     {
       "id": "paliparan_to_robinsons_205",
@@ -21558,21 +21558,21 @@ var jsonData = {
       "x": 14.30045,
       "y": 120.95642,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma Entrance"
     },
     {
       "id": "paliparan_to_robinsons_273",
       "x": 14.30062,
       "y": 120.9562,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma Entrance"
     },
     {
       "id": "paliparan_to_robinsons_274",
       "x": 14.30097,
       "y": 120.95578,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma Entrance"
     },
     {
       "id": "paliparan_to_robinsons_275",
@@ -21607,7 +21607,7 @@ var jsonData = {
       "x": 14.30202,
       "y": 120.95476,
       "type": "jeep",
-      "stop": ""
+      "stop": "SM Dasma - West Entrance"
     },
     {
       "id": "paliparan_to_robinsons_280",
@@ -21698,35 +21698,35 @@ var jsonData = {
       "x": 14.30105,
       "y": 120.95412,
       "type": "jeep",
-      "stop": ""
+      "stop": "Robinsons Dasma"
     },
     {
       "id": "robinsons_to_paliparan_2",
       "x": 14.30088,
       "y": 120.95413,
       "type": "jeep",
-      "stop": ""
+      "stop": "Robinsons Dasma"
     },
     {
       "id": "robinsons_to_paliparan_3",
       "x": 14.30069,
       "y": 120.95416,
       "type": "jeep",
-      "stop": ""
+      "stop": "Robinsons Dasma"
     },
     {
       "id": "robinsons_to_paliparan_4",
       "x": 14.30051,
       "y": 120.95423,
       "type": "jeep",
-      "stop": ""
+      "stop": "Robinsons Dasma"
     },
     {
       "id": "robinsons_to_paliparan_5",
       "x": 14.2995,
       "y": 120.95474,
       "type": "jeep",
-      "stop": ""
+      "stop": "Robinsons Dasma"
     },
     {
       "id": "robinsons_to_paliparan_6",
@@ -21824,21 +21824,21 @@ var jsonData = {
       "x": 14.29893,
       "y": 120.95832,
       "type": "jeep",
-      "stop": ""
+      "stop": "Kingsland Village"
     },
     {
       "id": "robinsons_to_paliparan_20",
       "x": 14.29896,
       "y": 120.95853,
       "type": "jeep",
-      "stop": ""
+      "stop": "Kingsland Village"
     },
     {
       "id": "robinsons_to_paliparan_21",
       "x": 14.29901,
       "y": 120.95894,
       "type": "jeep",
-      "stop": ""
+      "stop": "Kingsland Village"
     },
     {
       "id": "robinsons_to_paliparan_22",
@@ -22265,21 +22265,21 @@ var jsonData = {
       "x": 14.29346,
       "y": 120.97157,
       "type": "jeep",
-      "stop": ""
+      "stop": "Providence Memorial Park"
     },
     {
       "id": "robinsons_to_paliparan_83",
       "x": 14.29345,
       "y": 120.97166,
       "type": "jeep",
-      "stop": ""
+      "stop": "Providence Memorial Park"
     },
     {
       "id": "robinsons_to_paliparan_84",
       "x": 14.29341,
       "y": 120.97176,
       "type": "jeep",
-      "stop": ""
+      "stop": "Providence Memorial Park"
     },
     {
       "id": "robinsons_to_paliparan_85",
@@ -23343,7 +23343,7 @@ var jsonData = {
       "x": 14.31821,
       "y": 120.98585,
       "type": "jeep",
-      "stop": ""
+      "stop": "Global Oil Gas Station"
     },
     {
       "id": "robinsons_to_paliparan_237",
@@ -23420,14 +23420,14 @@ var jsonData = {
       "x": 14.3205,
       "y": 120.9848,
       "type": "jeep",
-      "stop": ""
+      "stop": "Jollibee Paliparan"
     },
     {
       "id": "robinsons_to_paliparan_248",
       "x": 14.3206,
       "y": 120.98476,
       "type": "jeep",
-      "stop": ""
+      "stop": "Jollibee Paliparan"
     },
     {
       "id": "robinsons_to_paliparan_249",
@@ -23602,56 +23602,56 @@ var jsonData = {
       "x": 14.32081,
       "y": 120.98332,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "robinsons_to_paliparan_274",
       "x": 14.32077,
       "y": 120.98319,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "walter_to_dbb1_0",
       "x": 14.32538,
       "y": 120.94077,
       "type": "jeep",
-      "stop": ""
+      "stop": "Walter"
     },
     {
       "id": "walter_to_dbb1_1",
       "x": 14.32583,
       "y": 120.94064,
       "type": "jeep",
-      "stop": ""
+      "stop": "Walter"
     },
     {
       "id": "walter_to_dbb1_2",
       "x": 14.32588,
       "y": 120.94063,
       "type": "jeep",
-      "stop": ""
+      "stop": "Walter"
     },
     {
       "id": "walter_to_dbb1_3",
       "x": 14.32626,
       "y": 120.94052,
       "type": "jeep",
-      "stop": ""
+      "stop": "Walter"
     },
     {
       "id": "walter_to_dbb1_4",
       "x": 14.32651,
       "y": 120.94045,
       "type": "jeep",
-      "stop": ""
+      "stop": "Walter"
     },
     {
       "id": "walter_to_dbb1_5",
       "x": 14.32658,
       "y": 120.94044,
       "type": "jeep",
-      "stop": ""
+      "stop": "Walter"
     },
     {
       "id": "walter_to_dbb1_6",
@@ -24029,7 +24029,7 @@ var jsonData = {
       "x": 14.34192,
       "y": 120.9373,
       "type": "jeep",
-      "stop": ""
+      "stop": "Kalipayan Resort"
     },
     {
       "id": "walter_to_dbb1_60",
@@ -24204,21 +24204,21 @@ var jsonData = {
       "x": 14.34949,
       "y": 120.93767,
       "type": "jeep",
-      "stop": ""
+      "stop": "Savemore Salitran"
     },
     {
       "id": "walter_to_dbb1_85",
       "x": 14.34967,
       "y": 120.93769,
       "type": "jeep",
-      "stop": ""
+      "stop": "Savemore Salitran"
     },
     {
       "id": "walter_to_dbb1_86",
       "x": 14.34985,
       "y": 120.9377,
       "type": "jeep",
-      "stop": ""
+      "stop": "Savemore Salitran"
     },
     {
       "id": "walter_to_dbb1_87",
@@ -24547,7 +24547,7 @@ var jsonData = {
       "x": 14.35074,
       "y": 120.94483,
       "type": "jeep",
-      "stop": ""
+      "stop": "Salitran"
     },
     {
       "id": "walter_to_dbb1_134",
@@ -24925,21 +24925,21 @@ var jsonData = {
       "x": 14.33585,
       "y": 120.95253,
       "type": "jeep",
-      "stop": ""
+      "stop": "Sta. Lucia"
     },
     {
       "id": "walter_to_dbb1_188",
       "x": 14.3358,
       "y": 120.95256,
       "type": "jeep",
-      "stop": ""
+      "stop": "Sta. Lucia"
     },
     {
       "id": "walter_to_dbb1_189",
       "x": 14.33559,
       "y": 120.95274,
       "type": "jeep",
-      "stop": ""
+      "stop": "Sta. Lucia"
     },
     {
       "id": "walter_to_dbb1_190",
@@ -25051,7 +25051,7 @@ var jsonData = {
       "x": 14.33513,
       "y": 120.95439,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "walter_to_dbb1_206",
@@ -25331,35 +25331,35 @@ var jsonData = {
       "x": 14.32678,
       "y": 120.94391,
       "type": "jeep",
-      "stop": ""
+      "stop": "McDo Antlers"
     },
     {
       "id": "walter_to_dbbc_21",
       "x": 14.3268,
       "y": 120.94527,
       "type": "jeep",
-      "stop": ""
+      "stop": "The ONE Dasma"
     },
     {
       "id": "walter_to_dbbc_22",
       "x": 14.3268,
       "y": 120.94565,
       "type": "jeep",
-      "stop": ""
+      "stop": "EAC"
     },
     {
       "id": "walter_to_dbbc_23",
       "x": 14.3268,
       "y": 120.9459,
       "type": "jeep",
-      "stop": ""
+      "stop": "EAC"
     },
     {
       "id": "walter_to_dbbc_24",
       "x": 14.3268,
       "y": 120.94591,
       "type": "jeep",
-      "stop": ""
+      "stop": "EAC"
     },
     {
       "id": "walter_to_dbbc_25",
@@ -25800,14 +25800,14 @@ var jsonData = {
       "x": 14.32189,
       "y": 120.96364,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 1"
     },
     {
       "id": "walter_to_dbbc_88",
       "x": 14.32164,
       "y": 120.96367,
       "type": "jeep",
-      "stop": ""
+      "stop": "DLSU-D Gate 1"
     },
     {
       "id": "walter_to_dbbc_89",
@@ -28600,35 +28600,35 @@ var jsonData = {
       "x": 14.32678,
       "y": 120.94391,
       "type": "jeep",
-      "stop": ""
+      "stop": "McDo Antlers"
     },
     {
       "id": "walter_to_paliparan_21",
       "x": 14.3268,
       "y": 120.94527,
       "type": "jeep",
-      "stop": ""
+      "stop": "The ONE Dasma"
     },
     {
       "id": "walter_to_paliparan_22",
       "x": 14.3268,
       "y": 120.94565,
       "type": "jeep",
-      "stop": ""
+      "stop": "EAC"
     },
     {
       "id": "walter_to_paliparan_23",
       "x": 14.3268,
       "y": 120.9459,
       "type": "jeep",
-      "stop": ""
+      "stop": "EAC"
     },
     {
       "id": "walter_to_paliparan_24",
       "x": 14.3268,
       "y": 120.94591,
       "type": "jeep",
-      "stop": ""
+      "stop": "EAC"
     },
     {
       "id": "walter_to_paliparan_25",
@@ -28796,7 +28796,7 @@ var jsonData = {
       "x": 14.32641,
       "y": 120.9519,
       "type": "jeep",
-      "stop": ""
+      "stop": "Highland View Dormitory"
     },
     {
       "id": "walter_to_paliparan_49",
@@ -30049,7 +30049,7 @@ var jsonData = {
       "x": 14.31193,
       "y": 120.96677,
       "type": "jeep",
-      "stop": ""
+      "stop": "Area F"
     },
     {
       "id": "walter_to_paliparan_228",
@@ -30749,35 +30749,35 @@ var jsonData = {
       "x": 14.3196,
       "y": 120.98016,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "walter_to_paliparan_328",
       "x": 14.31977,
       "y": 120.98037,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "walter_to_paliparan_329",
       "x": 14.31995,
       "y": 120.98056,
       "type": "jeep",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "area1-salawag_tricycle_terminal_0",
       "x": 14.33651,
       "y": 120.95486,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "area1-salawag_tricycle_terminal_1",
       "x": 14.3373,
       "y": 120.95543,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "area1-salawag_tricycle_terminal_2",
@@ -31617,14 +31617,14 @@ var jsonData = {
       "x": 14.31786,
       "y": 120.97054,
       "type": "tricycle",
-      "stop": ""
+      "stop": "San Nicolas 2"
     },
     {
       "id": "areac-paliparan-ever_tricycle_terminal_1",
       "x": 14.31809,
       "y": 120.97051,
       "type": "tricycle",
-      "stop": ""
+      "stop": "San Nicolas 2"
     },
     {
       "id": "areac-paliparan-ever_tricycle_terminal_2",
@@ -31673,21 +31673,21 @@ var jsonData = {
       "x": 14.31795,
       "y": 120.97333,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Dexterville Royale"
     },
     {
       "id": "areac-paliparan-ever_tricycle_terminal_9",
       "x": 14.31795,
       "y": 120.97335,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Dexterville Royale"
     },
     {
       "id": "areac-paliparan-ever_tricycle_terminal_10",
       "x": 14.31796,
       "y": 120.97339,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Dexterville Royale"
     },
     {
       "id": "areac-paliparan-ever_tricycle_terminal_11",
@@ -32058,21 +32058,21 @@ var jsonData = {
       "x": 14.3196,
       "y": 120.98016,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan Site"
     },
     {
       "id": "areac-paliparan-ever_tricycle_terminal_64",
       "x": 14.31977,
       "y": 120.98037,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan Site"
     },
     {
       "id": "areac-paliparan-ever_tricycle_terminal_65",
       "x": 14.32001,
       "y": 120.98062,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan Site"
     },
     {
       "id": "areac-paliparan-ever_tricycle_terminal_66",
@@ -32191,28 +32191,28 @@ var jsonData = {
       "x": 14.32098,
       "y": 120.98396,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan Ever Supermarket"
     },
     {
       "id": "areac-paliparan-ever_tricycle_terminal_83",
       "x": 14.32099,
       "y": 120.98397,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan Ever Supermarket"
     },
     {
       "id": "paliparan-dbbc-jollibee_tricycle_terminal_0",
       "x": 14.32103,
       "y": 120.98395,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan Tricycle Terminal"
     },
     {
       "id": "paliparan-dbbc-jollibee_tricycle_terminal_1",
       "x": 14.32103,
       "y": 120.98392,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan Tricycle Terminal"
     },
     {
       "id": "paliparan-dbbc-jollibee_tricycle_terminal_2",
@@ -32240,21 +32240,21 @@ var jsonData = {
       "x": 14.32089,
       "y": 120.98355,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-dbbc-jollibee_tricycle_terminal_6",
       "x": 14.32081,
       "y": 120.98332,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-dbbc-jollibee_tricycle_terminal_7",
       "x": 14.32068,
       "y": 120.98295,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-dbbc-jollibee_tricycle_terminal_8",
@@ -32793,35 +32793,35 @@ var jsonData = {
       "x": 14.31799,
       "y": 120.97249,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Area C"
     },
     {
       "id": "paliparan-dbbc-jollibee_tricycle_terminal_85",
       "x": 14.31802,
       "y": 120.9721,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Area C"
     },
     {
       "id": "paliparan-dbbc-jollibee_tricycle_terminal_86",
       "x": 14.31809,
       "y": 120.97107,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Area C"
     },
     {
       "id": "paliparan-paliparan_tricycle_terminal_0",
       "x": 14.32005,
       "y": 120.98059,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-paliparan_tricycle_terminal_1",
       "x": 14.32001,
       "y": 120.98062,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-paliparan_tricycle_terminal_2",
@@ -33080,259 +33080,259 @@ var jsonData = {
       "x": 14.32041,
       "y": 120.98483,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Jollibee Paliparan"
     },
     {
       "id": "paliparan-paliparan_tricycle_terminal_39",
       "x": 14.3204,
       "y": 120.98484,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Jollibee Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_0",
       "x": 14.32103,
       "y": 120.98395,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_1",
       "x": 14.32103,
       "y": 120.98392,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_2",
       "x": 14.32101,
       "y": 120.98387,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_3",
       "x": 14.32098,
       "y": 120.9838,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_4",
       "x": 14.32094,
       "y": 120.98368,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_5",
       "x": 14.32089,
       "y": 120.98355,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_6",
       "x": 14.32081,
       "y": 120.98332,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_7",
       "x": 14.32068,
       "y": 120.98295,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_8",
       "x": 14.32051,
       "y": 120.98241,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_9",
       "x": 14.32049,
       "y": 120.98238,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_10",
       "x": 14.32021,
       "y": 120.9818,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_11",
       "x": 14.32014,
       "y": 120.98169,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_12",
       "x": 14.31997,
       "y": 120.98148,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_13",
       "x": 14.31982,
       "y": 120.9813,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_14",
       "x": 14.31978,
       "y": 120.98125,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_15",
       "x": 14.31975,
       "y": 120.98121,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_16",
       "x": 14.31971,
       "y": 120.98114,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_17",
       "x": 14.31963,
       "y": 120.981,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_18",
       "x": 14.31992,
       "y": 120.9807,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_19",
       "x": 14.32001,
       "y": 120.98062,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_20",
       "x": 14.32013,
       "y": 120.98052,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_21",
       "x": 14.32026,
       "y": 120.9804,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_22",
       "x": 14.32027,
       "y": 120.98039,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_23",
       "x": 14.32067,
       "y": 120.98004,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_24",
       "x": 14.32047,
       "y": 120.97979,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_25",
       "x": 14.32018,
       "y": 120.97943,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Paliparan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_26",
       "x": 14.32019,
       "y": 120.97921,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Sakayan ng Bayan"
     },
     {
       "id": "paliparan-sakayan-ng-bayan_tricycle_terminal_27",
       "x": 14.32018,
       "y": 120.97915,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Sakayan ng Bayan"
     },
     {
       "id": "salawag-area1_tricycle_terminal_0",
       "x": 14.35352,
       "y": 120.98062,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag SSDGC Terminal"
     },
     {
       "id": "salawag-area1_tricycle_terminal_1",
       "x": 14.35344,
       "y": 120.98047,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag SSDGC Terminal"
     },
     {
       "id": "salawag-area1_tricycle_terminal_2",
       "x": 14.35335,
       "y": 120.98027,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-area1_tricycle_terminal_3",
       "x": 14.35334,
       "y": 120.98026,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-area1_tricycle_terminal_4",
       "x": 14.35329,
       "y": 120.98012,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-area1_tricycle_terminal_5",
       "x": 14.35315,
       "y": 120.97977,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-area1_tricycle_terminal_6",
       "x": 14.35302,
       "y": 120.97945,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-area1_tricycle_terminal_7",
@@ -33759,7 +33759,7 @@ var jsonData = {
       "x": 14.35047,
       "y": 120.96329,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Phoenix Gas Station"
     },
     {
       "id": "salawag-area1_tricycle_terminal_68",
@@ -33892,21 +33892,21 @@ var jsonData = {
       "x": 14.345,
       "y": 120.96533,
       "type": "tricycle",
-      "stop": ""
+      "stop": "TUP"
     },
     {
       "id": "salawag-area1_tricycle_terminal_87",
       "x": 14.34487,
       "y": 120.96537,
       "type": "tricycle",
-      "stop": ""
+      "stop": "TUP"
     },
     {
       "id": "salawag-area1_tricycle_terminal_88",
       "x": 14.34475,
       "y": 120.96538,
       "type": "tricycle",
-      "stop": ""
+      "stop": "TUP"
     },
     {
       "id": "salawag-area1_tricycle_terminal_89",
@@ -34109,119 +34109,119 @@ var jsonData = {
       "x": 14.33828,
       "y": 120.95611,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "salawag-area1_tricycle_terminal_118",
       "x": 14.33824,
       "y": 120.95608,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "salawag-area1_tricycle_terminal_119",
       "x": 14.33816,
       "y": 120.95601,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "salawag-area1_tricycle_terminal_120",
       "x": 14.33798,
       "y": 120.95588,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Area 1"
     },
     {
       "id": "salawag-area1_tricycle_terminal_121",
       "x": 14.3376,
       "y": 120.95565,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Area 1 Sta. Lucia"
     },
     {
       "id": "salawag-area1_tricycle_terminal_122",
       "x": 14.3373,
       "y": 120.95543,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Area 1 Sta. Lucia"
     },
     {
       "id": "salawag-area1_tricycle_terminal_123",
       "x": 14.33651,
       "y": 120.95486,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Area 1 Sta. Lucia"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_0",
       "x": 14.35352,
       "y": 120.98062,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag Main Terminal (Crossing)"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_1",
       "x": 14.35344,
       "y": 120.98047,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag Main Terminal (Crossing)"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_2",
       "x": 14.35335,
       "y": 120.98027,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_3",
       "x": 14.35334,
       "y": 120.98026,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_4",
       "x": 14.35329,
       "y": 120.98012,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_5",
       "x": 14.35315,
       "y": 120.97977,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_6",
       "x": 14.35302,
       "y": 120.97945,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_7",
       "x": 14.35293,
       "y": 120.97922,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_8",
       "x": 14.35276,
       "y": 120.97884,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_9",
       "x": 14.35268,
       "y": 120.97861,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salawag"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_10",
@@ -34557,7 +34557,7 @@ var jsonData = {
       "x": 14.35009,
       "y": 120.96682,
       "type": "tricycle",
-      "stop": ""
+      "stop": "JDC Garage Cavite"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_58",
@@ -34634,21 +34634,21 @@ var jsonData = {
       "x": 14.35072,
       "y": 120.96131,
       "type": "tricycle",
-      "stop": ""
+      "stop": "The Orchard Golf and Country Club"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_69",
       "x": 14.35098,
       "y": 120.9591,
       "type": "tricycle",
-      "stop": ""
+      "stop": "The Orchard Golf and Country Club"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_70",
       "x": 14.35104,
       "y": 120.95863,
       "type": "tricycle",
-      "stop": ""
+      "stop": "The Orchard Golf and Country Club"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_71",
@@ -34914,21 +34914,21 @@ var jsonData = {
       "x": 14.35207,
       "y": 120.94559,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salitran"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_109",
       "x": 14.35201,
       "y": 120.94554,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salitran"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_110",
       "x": 14.35196,
       "y": 120.94549,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salitran"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_111",
@@ -35138,63 +35138,63 @@ var jsonData = {
       "x": 14.35064,
       "y": 120.94072,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salitran"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_141",
       "x": 14.35061,
       "y": 120.93939,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salitran"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_142",
       "x": 14.3506,
       "y": 120.93934,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salitran"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_143",
       "x": 14.35059,
       "y": 120.9393,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salitran"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_144",
       "x": 14.35058,
       "y": 120.93926,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salitran"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_145",
       "x": 14.35057,
       "y": 120.93924,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salitran"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_146",
       "x": 14.35053,
       "y": 120.93921,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salitran"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_147",
       "x": 14.35053,
       "y": 120.93918,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salitran"
     },
     {
       "id": "salawag-salitran_tricycle_terminal_148",
       "x": 14.35055,
       "y": 120.93902,
       "type": "tricycle",
-      "stop": ""
+      "stop": "Salitran"
     }
   ],
   "links": [
